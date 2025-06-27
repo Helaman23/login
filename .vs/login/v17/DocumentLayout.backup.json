@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helam\\source\\repos\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\views\\auth\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\views\\auth\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\models\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\models\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|c:\\users\\helam\\source\\repos\\login\\login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F319FF-1960-4F5F-873C-5E19FBACEA77}|login\\login.csproj|solutionrelative:login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "login\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "login\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-25T18:52:47.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T23:15:33.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "login\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "login\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T00:51:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Auth\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "login\\Views\\Auth\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Views\\Auth\\Dashboard.cshtml",
+              "RelativeToolTip": "login\\Views\\Auth\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T00:50:59.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Program.cs",
+              "RelativeDocumentMoniker": "login\\Program.cs",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Program.cs",
+              "RelativeToolTip": "login\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:42:54.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\appsettings.json",
+              "RelativeDocumentMoniker": "login\\appsettings.json",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\appsettings.json",
+              "RelativeToolTip": "login\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T00:41:35.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "login\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Models\\UserModels.cs",
+              "RelativeToolTip": "login\\Models\\UserModels.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:40:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Models\\LoginViewModels.cs",
+              "RelativeDocumentMoniker": "login\\Models\\LoginViewModels.cs",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Models\\LoginViewModels.cs",
+              "RelativeToolTip": "login\\Models\\LoginViewModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:38:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "login\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "login\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwG4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:37:54.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\helam\\source\\repos\\login\\login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "login\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\helam\\source\\repos\\login\\login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "login\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:36:48.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
